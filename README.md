@@ -12,6 +12,8 @@ Anaconda, Git, Visual Studio, Mongo Db, Evidently(MLops tool), Whimsical(flow ch
 4. Data Access ( import mongo DB as pd dataframs and remove unnecessary columns and check for null / nan values)
 5. components(Data Ingestion, Train test split, initiate ingestion )
 6. pipeline creation
+7. Data Drift detection with evidently
+8. Data Validation ( Ensuring data ingested, transformed and provided to model training is correct)
 
 ## use following command in git bash to set environment variable of the Mongo DB connection string else you can set in the system environment variables
 
